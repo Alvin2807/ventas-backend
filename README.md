@@ -1,1 +1,0 @@
-Backend sistema de control de venta
